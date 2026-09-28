@@ -31,4 +31,4 @@ python -m unittest -v
 
 ## Autor
 
-Victor Conceição, curso de Ciência de Dados e Inteligência Artificial.
+Victor Silva Conceição, curso de Ciência de Dados e Inteligência Artificial.
