@@ -22,9 +22,8 @@ Depois de terminar o código e os testes, revisei tudo usando o checklist abaixo
 
 Estas sugestões foram adicionadas ao Backlog do quadro do Trello, para uma próxima sprint:
 
-1. Criar uma janela gráfica (por exemplo, com Tkinter), além do terminal.
+1. Criar uma janela gráfica, além do terminal.
 2. Guardar em arquivo a última cotação obtida, para usar quando estiver sem internet.
 3. Implementar o login e o histórico de conversões, conforme a documentação técnica.
 4. Aceitar valores com separador de milhar, como `1.234,56`.
 5. Adicionar mais moedas (libra, iene etc.).
-6. Rodar os testes automaticamente no GitHub a cada envio (GitHub Actions).
