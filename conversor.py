@@ -1,6 +1,6 @@
 """
 Conversor de Moedas - Atividade "Agile Docs & Code"
-Autor: Victor Conceição
+Autor: Victor Silva Conceição
 
 Converte valores entre Real (BRL), Dólar (USD) e Euro (EUR).
 As taxas são buscadas na API Frankfurter. Se a API não responder
