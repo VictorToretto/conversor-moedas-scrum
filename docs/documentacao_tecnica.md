@@ -1,6 +1,6 @@
 # Documentação técnica
 
-Este documento tem duas partes: o **conversor de moedas** (desenvolvido nesta sprint) e a **funcionalidade de login**, que o enunciado também cita e que ficou documentada como proposta para uma próxima sprint.
+Este documento tem duas partes: o **conversor de moedas** (desenvolvido nesta sprint) e a **funcionalidade de login**.
 
 ---
 
