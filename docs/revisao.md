@@ -17,7 +17,6 @@ Depois de terminar o código e os testes, revisei tudo usando o checklist abaixo
 
 1. **Erro no teste do menu:** o teste `test_fluxo_completo` quebrou porque o programa chama `print()` sem texto (para pular linha) e o teste tentava ler o texto de todas as chamadas. Corrigi o teste para ignorar essas chamadas.
 2. **Taxas em `float` vindas da API:** o JSON traz números como `float`. Para não perder precisão, converto cada taxa com `Decimal(str(taxa))`.
-3. **Enunciado com duas funcionalidades:** a parte de documentação pede o "login", mas a entrega é o conversor. Documentei os dois: o conversor completo e o login como proposta para a próxima sprint.
 
 ## Sugestões de melhoria
 
