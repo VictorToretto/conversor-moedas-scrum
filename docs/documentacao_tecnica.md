@@ -94,8 +94,6 @@ Como as taxas estão em relação ao dólar, a conversão entre duas moedas usa:
 
 ## Parte 2: funcionalidade de login (proposta)
 
-> Não foi implementada nesta sprint. É uma proposta para permitir, no futuro, que cada usuário salve seu histórico de conversões.
-
 ### 2.1 Descrição
 
 O usuário entra com **e-mail e senha**. Se estiverem corretos, o sistema libera o acesso ao histórico de conversões. Se estiverem errados, mostra "E-mail ou senha inválidos" (sem dizer qual dos dois está errado, por segurança). Depois de 5 tentativas erradas, a conta fica bloqueada por 15 minutos.
